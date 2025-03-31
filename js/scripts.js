@@ -1,0 +1,1 @@
+// js/scripts.js (Puedes agregar funcionalidades adicionales con JavaScript)
